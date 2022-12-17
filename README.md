@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulnakroshis and I am an Associate Professor of Physics at the University of Southern Maine, in Portland, Maine. 
-- 👀 I’m interested in computational physics, experimental physics, and physics education. 
+- 👀 I’m interested in computational physics, experimental physics, and physics education. I'm working on creating computational problem set questions for all our upper level physics courses. 
 - 🌱 I’m currently completely switching all my computational work from Python to Julia.
 - 💞️ I’m looking to collaborate on computational exercises for upper level physics courses.
 - 📫 How to reach me: see my University homepage (at my own domain) at portlandphysics.me
